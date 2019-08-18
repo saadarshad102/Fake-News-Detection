@@ -1,4 +1,0 @@
-pip install fasttext
-pip install sklearn
-pip install numpy
-pip install pandas
