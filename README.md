@@ -2,18 +2,18 @@
 Fake News Detection using fastText supervised learning
 
 ## Installing
-Markup : * Clone the repository
+* Clone the repository
 
-			```bash
-			git clone https://github.com/saadarshad102/Fake-News-Detection.git
-			```
+```bash
+git clone https://github.com/saadarshad102/Fake-News-Detection.git
+```
 
-		 * Open Fake-News-Detection folder
+* Open Fake-News-Detection folder
 
-		 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
-			```bash
-			pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 			```
 
 ## Usage
