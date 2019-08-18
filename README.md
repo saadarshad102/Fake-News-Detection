@@ -14,7 +14,7 @@ git clone https://github.com/saadarshad102/Fake-News-Detection.git
 
 ```bash
 pip install -r requirements.txt
-			```
+```
 
 ## Usage
 Just run the Notebook
