@@ -1,4 +1,4 @@
 fasttext
-sklearn
+scikit-learn
 numpy
 pandas
